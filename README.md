@@ -5,4 +5,4 @@
 ### :camera: Screenshots
 
 
-<img src="./img/website.gif?raw=true">
+<img src="./img/website.gif">
