@@ -77,6 +77,11 @@ img.animated-gif{
   height: 100%;
 }
 
+.github-link-img {
+	margin-top: 80px;
+	height: 5rem;
+}
+
 /* Header */
 #header {
 	position: fixed;
@@ -356,7 +361,7 @@ img.animated-gif{
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: linear-gradient(60deg, #29323c 0%, #485563 100%); */
+  background-color: linear-gradient(60deg, #29323c 0%, #485563 100%);
   opacity: 0.7;
 }
 
